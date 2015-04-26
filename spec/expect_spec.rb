@@ -139,5 +139,11 @@ RSpec.describe "truthiness" do
 end
 
 RSpec.describe "expecting errors" do
-	# todo: complete this describe
+	# todo: complete this expect type
 end
+
+RSpec.describe "expecting throws" do
+	# todo: complete this expect type
+end
+
+# todo: complete more expect
