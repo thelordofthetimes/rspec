@@ -7,4 +7,4 @@
 
 ##Test
 
-	ruby spec.rb
+	rspec spec.rb
