@@ -7,11 +7,11 @@
 
 [https://github.com/rspec/rspec-mocks](https://github.com/rspec/rspec-mocks)
 
-##Install
+##Installation
 
 	git clone https://github.com/thelordofthetimes/rspec
 	gem install rspec
 
-##Test
+##Testing
 
 	rspec
